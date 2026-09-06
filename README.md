@@ -1,4 +1,4 @@
-# 🧠 Multimodal Emotion Recognition (FER2013 & DREAMER)
+# 🧠 Human Emotion Recognition using Deep Learning
 
 <p align="center">
   <a href="https://multimodal-emotion-recognition-fer2013.onrender.com" target="_blank">
@@ -11,7 +11,7 @@
 
 > 🌐 **Live Web Application**: [**https://multimodal-emotion-recognition-fer2013.onrender.com**](https://multimodal-emotion-recognition-fer2013.onrender.com)
 
-A state-of-the-art deep learning platform for **Multimodal Emotion Recognition**, integrating facial expressions from the **FER2013 dataset** and physiological signals (EEG & ECG) from the **DREAMER dataset**. The project features an interactive Flask-based Web Application designed for real-time webcam emotion analytics, video file processing, session reporting, and Valence–Arousal–Dominance (VAD) psychological mapping.
+A state-of-the-art deep learning platform for **Human Emotion Recognition using Deep Learning**, integrating facial expressions from the **FER2013 dataset** and physiological signals (EEG & ECG) from the **DREAMER dataset**. The project features an interactive Flask-based Web Application designed for real-time webcam emotion analytics, video file processing, session reporting, and Valence–Arousal–Dominance (VAD) psychological mapping.
 
 ---
 
@@ -136,7 +136,8 @@ Comprehensive history dashboard storing evaluation sessions, timestamps, video f
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/anilhosalli18/Multimodal-Emotion-Recognition--FER2013-DREAMER-.git
+git clone https://github.com/anilhosalli18/Multimodal-Emotion-Recognition--FER2013-DREAMER
+-.git
 cd Multimodal-Emotion-Recognition--FER2013-DREAMER-
 ```
 
