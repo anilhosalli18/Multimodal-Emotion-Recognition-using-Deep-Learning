@@ -136,9 +136,9 @@ Comprehensive history dashboard storing evaluation sessions, timestamps, video f
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/anilhosalli18/Multimodal-Emotion-Recognition--FER2013-DREAMER
+git clone https://github.com/anilhosalli18/Multimodal-Emotion-Recognition-using-Deep-Learning
 -.git
-cd Multimodal-Emotion-Recognition--FER2013-DREAMER-
+cd Multimodal-Emotion-Recognition-using-Deep-Learning
 ```
 
 ### 3. Set Up Virtual Environment & Dependencies
@@ -172,7 +172,7 @@ Open your browser and navigate to `http://127.0.0.1:5000` to access the applicat
 ## 📂 Project Structure
 
 ```
-Multimodal-Emotion-Recognition--FER2013-DREAMER-/
+Multimodal-Emotion-Recognition-using-using-Deep-Learning/
 ├── 01-runs/                     # Training runs, checkpoints, and model scalars
 ├── 02-Dataset/                  # Dataset utilities and processing scripts
 ├── 03-Video/                    # Video inference modules and models
