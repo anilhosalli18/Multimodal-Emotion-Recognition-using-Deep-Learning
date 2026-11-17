@@ -185,10 +185,3 @@ Multimodal-Emotion-Recognition-using-using-Deep-Learning/
 │   └── users.db                 # SQLite database for user sessions & recordings
 ├── .gitignore                   # Ignored files (virtualenv, pycache, user data)
 └── README.md                    # Project documentation
-```
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
